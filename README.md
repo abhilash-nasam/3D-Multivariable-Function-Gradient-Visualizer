@@ -68,22 +68,6 @@ The **gradient vector** indicates the direction of the **maximum rate of increas
 
 ---
 
-## Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/3D-Multivariable-Function-Gradient-Visualizer.git
-
-Install required libraries:
-
-pip install numpy matplotlib
-
-Run the program:
-
-python main.py
-
----
-
 ## Output
 
 The program generates:
